@@ -115,9 +115,9 @@
     }
 
     .app-icon.__all {
-        background-image: url("all.png");
+        background-image: url("img-all.png");
     }
 
     .app-icon.__market {
-        background-image: url("market.png");
+        background-image: url("img-market.png");
     }
