@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>过店客流</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#8FA8FF" offset="0%"></stop>
+            <stop stop-color="#4772E9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="工作台" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5-工作台-设置-修改数据总览数据" transform="translate(-549.000000, -287.000000)" fill="url(#linearGradient-1)">
+            <g id="2" transform="translate(500.000000, 114.000000)">
+                <g transform="translate(30.000000, 166.000000)">
+                    <g id="过店客流" transform="translate(19.000000, 7.000000)">
+                        <g transform="translate(4.000000, 3.000000)" id="形状">
+                            <path d="M15,16 L27,16 C27.5522847,16 28,16.4477153 28,17 L28,29 C28,29.5522847 27.5522847,30 27,30 L15,30 C14.4477153,30 14,29.5522847 14,29 L14,17 C14,16.4477153 14.4477153,16 15,16 Z M16,18 L16,28 L18,28 L18,18 L16,18 Z M20,22 L20,28 L22,28 L22,22 L20,22 Z M24,20 L24,28 L26,28 L26,20 L24,20 Z M12,30 L1,30 C0.44771525,30 0,29.5522847 0,29 L0,21.574375 C0,21.2187191 0.188917736,20.8898311 0.496125,20.710625 L9.502375,15.457 C7.435375,14.5095 6,12.422375 6,10 L6,6 C6,2.68625 8.68625,0 12,0 C15.31375,0 18,2.68625 18,6 L18,10 C18,11.53675 17.42225,12.9385 16.47225,14 L13,14 C12.4477153,14 12,14.4477153 12,15 L12,30 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

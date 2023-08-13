@@ -1,0 +1,123 @@
+
+    /**
+     * iconfont
+     */
+
+    @font-face {
+        font-family: "app-icon"; /* Project id 2972729 */
+        src: url('app-icon.woff2?t=1665643371890') format('woff2'),
+        url('app-icon.woff?t=1665643371890') format('woff'),
+        url('app-icon.ttf?t=1665643371890') format('truetype');
+    }
+
+    .app-icon {
+        font-family: "app-icon" !important;
+        font-size: 40px;
+        font-style: normal;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    .app-icon.__dashboard:before {
+        content: "\e81a";
+    }
+
+    .app-icon.__vip-cloud:before {
+        content: "\e8f4";
+    }
+
+    .app-icon.__site-mgt:before {
+        content: "\e81b";
+    }
+
+    .app-icon.__device-mgt:before {
+        content: "\e81e";
+    }
+
+    .app-icon.__device-data-detection:before {
+        content: "\e8ea";
+    }
+
+    .app-icon.__device-relation-binding:before {
+        content: "\e8f3";
+    }
+
+    .app-icon.__networking-terminal:before {
+        content: "\e8ee";
+    }
+
+    .app-icon.__portal-auth-mgt:before {
+        content: "\e8ca";
+    }
+
+    .app-icon.__customer-flow-analysis:before {
+        content: "\e81d";
+    }
+
+    .app-icon.__customer-group-analysis:before {
+        content: "\e881";
+    }
+
+    .app-icon.__shopping-around-analysis:before {
+        content: "\e8c1";
+    }
+
+    .app-icon.__shop-relation-analysis:before {
+        content: "\e8ef";
+    }
+
+    .app-icon.__hot-zone-analysis:before {
+        content: "\e88d";
+    }
+
+    .app-icon.__monitor-analysis:before {
+        content: "\e897";
+    }
+
+    .app-icon.__business-type-analysis:before {
+        content: "\e8e3";
+    }
+
+    .app-icon.__site-patrol-cloud:before {
+        content: "\e81c";
+    }
+
+    .app-icon.__job-absent-patrol:before {
+        content: "\e88c";
+    }
+
+    .app-icon.__cashier-patrol:before {
+        content: "\e8ac";
+    }
+
+    .app-icon.__video-snapshot:before {
+        content: "\e8e9";
+    }
+
+    .app-icon.__customer-data-repair:before {
+        content: "\e8f0";
+    }
+
+    .app-icon.__customer-large-screen:before {
+        content: "\e8f6";
+    }
+
+
+
+    /**
+     * base64
+     */
+
+    .app-icon {
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .app-icon.__all {
+        background-image: url("_all.png");
+    }
+
+    .app-icon.__market {
+        background-image: url("_market.png");
+    }

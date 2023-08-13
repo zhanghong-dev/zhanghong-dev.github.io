@@ -1,0 +1,50 @@
+
+    * {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    html, body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    body.el-popup-parent--hidden {
+        padding-right: 0 !important;
+    }
+
+
+
+    /**
+     * 滚动条
+     */
+
+    *::-webkit-scrollbar {
+        width: 11px;
+        height: 11px;
+    }
+
+    *::-webkit-scrollbar-thumb {
+        border-style: solid;
+        border-color: transparent;
+        box-shadow: 100vw 0 0 #DCE0ED inset;
+    }
+
+    *::-webkit-scrollbar-thumb:horizontal {
+        border-width: 0 5px 5px 5px;
+    }
+
+    *::-webkit-scrollbar-thumb:vertical {
+        border-width: 5px 5px 5px 0;
+    }
+
+    *::-webkit-scrollbar-thumb:hover {
+        box-shadow: 100vw 0 0 #BAC0D5 inset;
+    }
+
+    *::-webkit-scrollbar-corner {
+        background-color: transparent;
+    }

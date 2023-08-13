@@ -1,0 +1,158 @@
+{
+    "default": {
+        "dashboard": {
+            "name": "工作台",
+            "path": "/index",
+            "icon": "__dashboard",
+            "color": "#6789FF",
+            "background": "transparent"
+        },
+        "vip-cloud": {
+            "name": "云会员",
+            "path": "/vip-cloud",
+            "icon": "__vip-cloud",
+            "color": "#FFFFFF",
+            "background": "#DFC290"
+        },
+        "site-mgt": {
+            "name": "场所管理",
+            "path": "/site-mgt",
+            "icon": "__site-mgt",
+            "color": "#FFFFFF",
+            "background": "#FB7E35"
+        },
+        "device-mgt": {
+            "name": "设备管理",
+            "path": "/device-mgt",
+            "icon": "__device-mgt",
+            "color": "#FFFFFF",
+            "background": "#F5C828"
+        },
+        "device-data-detection": {
+            "name": "数据检测",
+            "path": "/device-data-detection",
+            "icon": "__device-data-detection",
+            "color": "#FFFFFF",
+            "background": "#09DF72"
+        },
+        "device-relation-binding": {
+            "name": "关系绑定",
+            "path": "/device-relation-binding",
+            "icon": "__device-relation-binding",
+            "color": "#FFFFFF",
+            "background": "#00DC9B"
+        },
+        "networking-terminal": {
+            "name": "联网终端",
+            "path": "/networking-terminal",
+            "icon": "__networking-terminal",
+            "color": "#FFFFFF",
+            "background": "#34CBED"
+        },
+        "portal-auth-mgt": {
+            "name": "Portal 认证",
+            "path": "/portal-auth-mgt",
+            "icon": "__portal-auth-mgt",
+            "color": "#FFFFFF",
+            "background": "#9787FA"
+        },
+        "customer-flow-analysis": {
+            "name": "客流分析",
+            "path": "/customer-flow-analysis",
+            "icon": "__customer-flow-analysis",
+            "color": "#FFFFFF",
+            "background": "#58ACFF"
+        },
+        "customer-group-analysis": {
+            "name": "客群分析",
+            "path": "/customer-group-analysis",
+            "icon": "__customer-group-analysis",
+            "color": "#FFFFFF",
+            "background": "#F673DC"
+        },
+        "shopping-around-analysis": {
+            "name": "游逛分析",
+            "path": "/shopping-around-analysis",
+            "icon": "__shopping-around-analysis",
+            "color": "#FFFFFF",
+            "background": "#FF6454"
+        },
+        "shop-relation-analysis": {
+            "name": "关联分析",
+            "path": "/shop-relation-analysis",
+            "icon": "__shop-relation-analysis",
+            "color": "#FFFFFF",
+            "background": "#FA9D01"
+        },
+        "hot-zone-analysis": {
+            "name": "热区分析",
+            "path": "/hot-zone-analysis",
+            "icon": "__hot-zone-analysis",
+            "color": "#FFFFFF",
+            "background": "#7ECF59"
+        },
+        "monitor-analysis": {
+            "name": "监控分析",
+            "path": "/monitor-analysis",
+            "icon": "__monitor-analysis",
+            "color": "#FFFFFF",
+            "background": "#3E7EFF"
+        },
+        "business-type-analysis": {
+            "name": "业态分析",
+            "path": "/business-type-analysis",
+            "icon": "__business-type-analysis",
+            "color": "#FFFFFF",
+            "background": "#A0D654"
+        },
+        "site-patrol-cloud": {
+            "name": "云巡店",
+            "path": "/site-patrol-cloud",
+            "icon": "__site-patrol-cloud",
+            "color": "#FFFFFF",
+            "background": "#32C98F"
+        },
+        "job-absent-patrol": {
+            "name": "脱岗巡检",
+            "path": "/job-absent-patrol",
+            "icon": "__job-absent-patrol",
+            "color": "#FFFFFF",
+            "background": "#6E7CF7"
+        },
+        "cashier-patrol": {
+            "name": "收银巡检",
+            "path": "/cashier-patrol",
+            "icon": "__cashier-patrol",
+            "color": "#FFFFFF",
+            "background": "#F65567"
+        },
+        "video-snapshot": {
+            "name": "视频快照",
+            "path": "/video-snapshot",
+            "icon": "__video-snapshot",
+            "color": "#FFFFFF",
+            "background": "#5245FF"
+        },
+        "customer-data-repair": {
+            "name": "数据修补",
+            "path": "/customer-data-repair",
+            "icon": "__customer-data-repair",
+            "color": "#FFFFFF",
+            "background": "#FF8035"
+        },
+        "customer-large-screen": {
+            "name": "数据大屏",
+            "path": "/customer-large-screen",
+            "icon": "__customer-large-screen",
+            "color": "#FFFFFF",
+            "background": "#4F49CD"
+        }
+    },
+    "custom": {
+        "49691": {
+            "site-patrol-cloud": {
+                "name": "客流视频"
+            }
+        }
+    }
+}
