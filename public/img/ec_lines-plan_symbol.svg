@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="68px" viewBox="0 0 40 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>地点</title>
+    <defs>
+        <path d="M9.9,0.6 C4.7,0.6 0.5,4.7 0.5,9.8 C0.5,11.5 1,13.1 1.9,14.6 L9.2,25.2 C9.3,25.4 9.6,25.6 9.8,25.6 C10.1,25.6 10.3,25.5 10.4,25.2 L17.8,14.6 C18.7,13.2 19.1,11.5 19.1,9.8 C19.3,4.8 15.1,0.6 9.9,0.6 L9.9,0.6 Z" id="path-1"></path>
+        <filter x="-86.0%" y="-56.0%" width="272.0%" height="228.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="游逛分析" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="地点3" transform="translate(2.000000, 3.000000)" fill-rule="nonzero">
+            <g id="地点" transform="translate(8.000000, 5.000000)">
+                <g id="形状_1_">
+                    <g id="路径">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#577CFF" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M9.9,26.1 C9.5,26.1 9.1,25.9 8.8,25.5 L1.5,14.9 C0.5,13.3 0,11.6 0,9.8 C0,4.4 4.4,0 9.9,0 C15.4,0 19.8,4.4 19.8,9.8 C19.8,11.6 19.3,13.3 18.4,14.8 L11,25.4 C10.7,25.9 10.3,26.1 9.9,26.1 Z M9.9,1.1 C5,1.1 1.1,5 1.1,9.8 C1.1,11.4 1.5,13 2.4,14.3 L9.7,24.8 C9.8,25 10,25 10.1,24.8 L17.5,14.2 C18.3,12.9 18.8,11.3 18.8,9.7 C18.7,5.1 14.8,1.1 9.9,1.1 Z" id="形状" fill="#FFFFFF"></path>
+                </g>
+                <path d="M9.9,15.2 C7.3,15.2 5.2,13.1 5.2,10.5 C5.2,7.9 7.3,5.8 9.9,5.8 C12.5,5.8 14.6,7.9 14.6,10.5 C14.6,13.1 12.5,15.2 9.9,15.2 L9.9,15.2 Z" id="路径_1_" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
