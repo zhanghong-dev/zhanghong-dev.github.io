@@ -12,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,8 +62,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="WxProject" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,6 +73,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="WxProject" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -110,6 +110,7 @@
       <workItem from="1691928797450" duration="1182000" />
       <workItem from="1691930097398" duration="10000" />
       <workItem from="1691991313431" duration="129000" />
+      <workItem from="1691991648212" duration="74000" />
     </task>
     <task id="LOCAL-00001" summary="dashboard">
       <created>1691928920369</created>
@@ -153,11 +154,18 @@
       <option name="project" value="LOCAL" />
       <updated>1691991350794</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="shopping-around-analysis">
+      <created>1691991676303</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691991676303</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1321000" />
+    <option name="totallyTimeSpent" value="1395000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1519" height="969" extended-state="6" />
