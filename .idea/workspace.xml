@@ -63,6 +63,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="WxProject" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -74,7 +75,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="WxProject" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -112,6 +112,7 @@
       <workItem from="1691991313431" duration="129000" />
       <workItem from="1691991648212" duration="74000" />
       <workItem from="1691991849805" duration="73000" />
+      <workItem from="1691992049724" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="dashboard">
       <created>1691928920369</created>
@@ -169,11 +170,18 @@
       <option name="project" value="LOCAL" />
       <updated>1691991866440</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="shopping-around-analysis">
+      <created>1691992067108</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691992067108</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1468000" />
+    <option name="totallyTimeSpent" value="1565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1519" height="969" extended-state="6" />
