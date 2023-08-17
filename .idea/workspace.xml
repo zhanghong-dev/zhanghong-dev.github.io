@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34662020-75ab-4b36-9aaa-cf6681bd09c7" name="Default Changelist" comment="">
+    <list default="true" id="34662020-75ab-4b36-9aaa-cf6681bd09c7" name="Default Changelist" comment="简历">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,6 +26,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="z" />
         <option value="zhanghong &lt;zhanghong@vip.163.com&gt;" />
         <option value="zhanghong@vip.163.com" />
       </list>
@@ -40,21 +41,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/zhanghong-dev.github.io.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="2280" />
-    <option name="height" value="1455" />
+    <option name="x" value="282" />
+    <option name="y" value="129" />
+    <option name="width" value="1857" />
+    <option name="height" value="1284" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -65,6 +56,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="WxProject" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -76,16 +68,20 @@
           <select />
         </subPane>
       </pane>
-      <pane id="WxProject" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/git@wiwide" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\zhanghong-dev.github.io" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,6 +114,10 @@
       <workItem from="1691992347653" duration="77000" />
       <workItem from="1691992678165" duration="343000" />
       <workItem from="1692059963340" duration="15000" />
+      <workItem from="1692064227498" duration="820000" />
+      <workItem from="1692066172838" duration="10000" />
+      <workItem from="1692238701173" duration="302000" />
+      <workItem from="1692239128229" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="dashboard">
       <created>1691928920369</created>
@@ -196,11 +196,25 @@
       <option name="project" value="LOCAL" />
       <updated>1691992697165</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="portal-auth-editor">
+      <created>1692064270249</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692064270249</updated>
+    </task>
+    <task id="LOCAL-00013" summary="portal-auth-editor">
+      <created>1692064623253</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692064623253</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2000000" />
+    <option name="totallyTimeSpent" value="3144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1519" height="969" extended-state="6" />
@@ -230,7 +244,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="shopping-around-analysis" />
     <MESSAGE value="dashboard" />
-    <option name="LAST_COMMIT_MESSAGE" value="dashboard" />
+    <MESSAGE value="portal-auth-editor" />
+    <option name="LAST_COMMIT_MESSAGE" value="portal-auth-editor" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dashboard/index.html">
